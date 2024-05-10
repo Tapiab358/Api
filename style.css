@@ -1,0 +1,29 @@
+body {
+    margin: 0px;
+    padding: 0%;
+    background-image: url(https://www.creativosonline.org/wp-content/uploads/2014/07/fondos_naturales_447-1920x1080.jpg);
+    box-sizing: border-box;
+    color: rgb(35, 2, 2);
+    font-family: poppin, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+h1 {
+    text-align: center;
+    color: azure;
+}
+b {
+    color:black;
+}
+form {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#weather-info {
+    text-align: center;
+    margin-top: 20px;
+}
